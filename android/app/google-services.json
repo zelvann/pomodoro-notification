@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123018647935",
+    "project_id": "ppb-firebase-notificatio-17800",
+    "storage_bucket": "ppb-firebase-notificatio-17800.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123018647935:android:342b9ccef185857e72624a",
+        "android_client_info": {
+          "package_name": "com.example.awesome_notification_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Y4VhqVQ8qDvxvHSd-DWxeuCK-Xxd4YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
