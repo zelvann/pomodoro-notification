@@ -1,5 +1,12 @@
 *This is a submission for the Mobile Programming's Assignment to use Awesome Notifications with Firebase*
 
+## Preview
+<div align="center">
+  <img src="docs/clean.png" width=20% height= 20%/>
+  <img src="docs/test-notif.png" width=20% height= 20% />
+ <img src="docs/pomodoro-notif.png" width=20% height= 20% />
+</div>
+
 ## What I Built
 I developed a Flutter-based Pomodoro notification app that integrates local notifications using the [`awesome_notifications`](https://pub.dev/packages/awesome_notifications) package and uses Firebase Firestore to persist scheduled timer alarms.
 
